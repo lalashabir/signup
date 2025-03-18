@@ -48,7 +48,7 @@ const Signup = () => {
           required
         />
         <br />
-        <button type="submit">Sign Up button on</button>
+        <button type="submit">Sign Up button</button>
       </form>
     </div>
   );
